@@ -1,0 +1,7 @@
+{
+  "name": "myPaw",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
